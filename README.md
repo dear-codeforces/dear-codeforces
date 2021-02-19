@@ -16,3 +16,18 @@ find these old posts. Eventually, some awesome ideas get forgotten.
 This is a repository to help participants to report feature requests, bugs and
 wishes in a user-friendly way, and to help Codeforces to judge which features
 are most wanted.
+
+
+## How to report issues
+
+[Create a new issue](https://github.com/dear-codeforces/dear-codeforces/issues/new/choose)
+from template. You can report bugs in Codeforces interface or in submission
+testing, or send feature requests. For security issues and vulnerabilities,
+please contact Mike Mirzayanov directly [via email](mailto:mirzayanovmr@gmail.com)
+or [via Telegram](https://t.me/mikemirzayanov). 
+
+
+## Should I report a well-known issue?
+
+Please make sure that it hasn't been reported before and do submit an issue. The
+goal is to collect all issues from all places and become *the* issue tracker.
