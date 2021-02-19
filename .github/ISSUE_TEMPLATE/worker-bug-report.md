@@ -2,7 +2,7 @@
 name: Worker bug report
 about: Report a bug in Codeforces submission testing
 title: ''
-labels: bug
+labels: bug, testing
 assignees: ''
 
 ---
